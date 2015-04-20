@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import momentjs from 'moment';
+import momentjs from 'npm:moment';
 
 var moment;
 

@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import moment from 'moment';
+import moment from 'npm:moment';
 
 var duration;
 
